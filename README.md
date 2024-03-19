@@ -1,8 +1,15 @@
-# React + Vite
+# Lista de filmes vindo API TMDB
+Esse projeto lista filme principal que está em cartaz e nas outras sessões da página tem um carrocel com listagem de outros filme e series. Tecnologias reactjs, styled-components e responsivo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias Usadas:
 
-Currently, two official plugins are available:
+  REACT<img align="center" alt="Paulo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Paulo-REACT" />
+  STYLED-COMPONENTS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Intalação
+`npm install`
+
+### Para rodar o projeto
+`npm run dev`
+
+<img src="https://github.com/paulogilvan/movie/blob/master/src/assets/layout.png?raw=true" />
